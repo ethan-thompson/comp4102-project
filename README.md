@@ -1,2 +1,13 @@
 # comp4102-project
-Repository for COMP4102 final project
+
+<b>Title:</b>
+
+<b>Summary:</b>
+
+<b>Background:</b>
+
+<b>The Challenge:</b>
+
+<b>Goals and Deliverables:</b>
+
+<b>Schedule:</b>
