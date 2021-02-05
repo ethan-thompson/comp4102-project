@@ -4,11 +4,11 @@
 
 <b>Summary:</b> User will roll a dice in front of a camera and the results of the roll would be printed to the screen by the system. Primarily for use in tabletop games such as D&D where some players would rather use physical dice over digital dice, as this would allow for a hybrid making it easier for groups to play remotely.
 
-<b>Background:</b> Due to the covid pandemic, social gatherings have been restricted which makes tabletop games much more difficult to play in groups. Many digital tools have already been created to facilitate the playing of games such as D&D remotely, however they tend to employ digital dice rolling as part of their system. Most players, from my experience, prefer to use physical dice from their collection that they have worked on through the years. I would like to create a system to facilitate the use of physical dice in a virtual capacity, and hopefully build on and add to the already exisisting tools that facilitate the collection of resources for the game.
+<b>Background:</b> Due to the covid pandemic, social gatherings have been restricted which makes tabletop games much more difficult to play in groups. Many digital tools have already been created to facilitate the playing of games such as D&D remotely, however they tend to employ digital dice rolling as part of their system. Most players, from my experience, prefer to use physical dice from their collection that they have worked on through the years. I would like to create a system to facilitate the use of physical dice in a virtual capacity, and hopefully build on and add to the already existing tools that facilitate the collection of resources for the game.
 
 <b>The Challenge:</b> This problem can be challenging, as it will involve reading digits from dice at different angles, illuminations, as well as different dice textures and opacities. In addition to the traditional D6 (a dice with 6 sides) the system will also need to be able to read the results of rolls from D2's, D4's, D8's, D10's, D12's, and of course D20's. Additionally, the system will need to be able to use object recognition to recognize what is and is not accepted as dice.
 
-<b>Goals and Deliverables:</b> If the system can read the results of the rolled dice and correctly output them to the user, this is a success. In this case, a success is easily mesurable, as the results of the rolled dice are easily read by the human eye in real time.
+<b>Goals and Deliverables:</b> If the system can read the results of the rolled dice and correctly output them to the user, this is a success. In this case, a success is easily measurable, as the results of the rolled dice are easily read by the human eye in real time.
 
     Plan to Achieve:
     - A system that can correctly detect and recognize a valid die.
@@ -51,7 +51,7 @@
     - At the end of the week, test and review code as well as ensure proper documentation is being kept.
     
     Week 4 (February 28th):
-    - Complete dice object detection and speciificatino for accepted dice.
+    - Complete dice object detection and specification for accepted dice.
     - At the end of the week, test and review code as well as ensure proper documentation is being kept.
     
     Week 5 (March 7th):
@@ -71,12 +71,12 @@
     
     Week 8 (March 28th):
     - Complete testing and adjustments for different dice size, texture, and opacity.
-    - Begin testing in different environments with different lighting. Make adjustments to accomodate as
+    - Begin testing in different environments with different lighting. Make adjustments to accommodate as
       needed.
     - At the end of the week, test and review code as well as ensure proper documentation is being kept.
     
     Week 9 (April 4th):
-    - Complete testing and adjustments for different evironments with different lighting.
+    - Complete testing and adjustments for different environments with different lighting.
     - At the end of the week, test and review code as well as ensure proper documentation is being kept.
     
     Week 10 (April 11th):
